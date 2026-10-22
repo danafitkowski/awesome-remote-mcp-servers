@@ -2794,6 +2794,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Work with Jira issues and Confluence pages.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
+- [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
+  [![Critical Path Partners MCP connector](https://glama.ai/mcp/connectors/io.github.danafitkowski/cpp-cpm-engine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danafitkowski/cpp-cpm-engine)
+  🔓 - Forensic delay analysis of Primavera P6 schedules: windows analysis, time impact, DCMA-14 checks and Monte Carlo risk.
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
   [![dot•requirements MCP connector](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements/badges/score.svg)](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements)
   🔐 - Draft testable requirements specs from chat, style-check them, publish to your team, and see test coverage.
